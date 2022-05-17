@@ -1,0 +1,5 @@
+package com.hcl.schedulemanagement.service;
+
+public interface ScheduleService {
+
+}

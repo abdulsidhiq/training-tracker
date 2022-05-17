@@ -1,0 +1,5 @@
+package com.hcl.schedulemanagement.domain;
+
+public class Schedule {
+
+}

@@ -1,0 +1,8 @@
+package com.hcl.schedulemanagement.repository;
+
+public interface ScheduleRepository extends JpaRepository<Schedule, Long> {
+	
+		 
+
+	}
+
