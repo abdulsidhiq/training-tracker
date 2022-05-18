@@ -1,4 +1,4 @@
-package com.hcl.employeemanagementapi.domain;
+package in.hcl.employeemanagementapi.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

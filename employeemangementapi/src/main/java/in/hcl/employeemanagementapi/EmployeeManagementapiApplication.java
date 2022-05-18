@@ -1,4 +1,4 @@
-package com.hcl.employeemanagementapi;
+package in.hcl.employeemanagementapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
