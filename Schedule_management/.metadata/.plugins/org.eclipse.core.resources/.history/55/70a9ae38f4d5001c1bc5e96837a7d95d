@@ -1,5 +1,0 @@
-package in.hcl.schedule_management.domain;
-
-public class Schedule {
-
-}

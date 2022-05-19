@@ -1,5 +1,0 @@
-package in.hcl.schedule_management.repository;
-
-public interface ScheduleRepository {
-
-}
